@@ -1,0 +1,18 @@
+model: yolo26n-seg.pt
+confidence: 0.45
+mask_threshold: 0.50
+person_class_id: 0
+
+line_x: null
+line_ratio: 0.50
+
+buffer_half_width: 25
+
+max_distance: 100.0
+max_missed: 20
+min_confirmed_frames: 3
+trajectory_length: 30
+
+display: true
+save_video: true
+save_events: true
