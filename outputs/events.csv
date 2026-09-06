@@ -1,0 +1,6 @@
+timestamp,frame,track_id,direction,counter
+2026-09-01T17:54:53.861,194,1,right_to_left,-1
+2026-09-01T17:55:09.727,238,4,right_to_left,-2
+2026-09-01T17:56:48.352,490,6,left_to_right,-1
+2026-09-01T17:57:02.074,525,7,left_to_right,0
+2026-09-01T17:57:35.586,615,10,left_to_right,1
